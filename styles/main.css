@@ -1,0 +1,11 @@
+button{
+	height: 45;
+	width: 120;
+	border:0px solid #03cafc;
+	border-radius:15px;
+	background:linear-gradient(to bottom left, #fcba03, #03fcca);
+}
+button:hover{
+	background:linear-gradient(to bottom right, #fcba03, #03fcca);
+	box-shadow: 0 1px 2px rgba(0,0,0,1);
+}
